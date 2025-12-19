@@ -14,10 +14,6 @@ A simple, elegant desktop application for generating QR codes with a modern grap
 - 🖥️ Cross-platform support (Windows, macOS, Linux)
 - 📦 Standalone executable (no Java installation required)
 
-## Screenshots
-
-![QR Generator Interface](docs/screenshot.png)
-*Clean and intuitive interface for quick QR code generation*
 
 ## Installation
 
