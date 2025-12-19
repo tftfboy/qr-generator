@@ -28,7 +28,7 @@ A simple, elegant desktop application for generating QR codes with a modern grap
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/qr-generator.git
+git clone https://github.com/tftfboy/qr-generator.git
 cd qr-generator
 ```
 
@@ -44,7 +44,7 @@ java -jar target/qr-generator-1.0-SNAPSHOT.jar
 
 ### Option 2: Download Executable (Windows)
 
-Download the latest `.exe` file from the [Releases](https://github.com/YOUR_USERNAME/qr-generator/releases) page and run it directly - no Java installation required!
+Download the latest `.exe` file from the [Releases](https://github.com/tftfboy/qr-generator/releases) page and run it directly - no Java installation required!
 
 ## Usage
 
@@ -120,8 +120,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**tftfboy**
+- GitHub: [@tftfboy](https://github.com/tftfboy)
 
 ## Acknowledgments
 
@@ -132,4 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you found this project helpful, please give it a ⭐️!
 
-For issues or questions, please open an issue on the [GitHub repository](https://github.com/YOUR_USERNAME/qr-generator/issues).
+For issues or questions, please open an issue on the [GitHub repository](https://github.com/tftfboy/qr-generator/issues).
